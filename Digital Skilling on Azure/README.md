@@ -15,11 +15,11 @@ All our content is created based on real business needs, aligned to roles, combi
 + Learning path aligned to roles or topics
 
 Sources:
-  + (Microsoft.com/Learn "Microsoft Learn") 
-  + (Microsoft.com/Learn "Microsoft Docs")
-  + (aka.ms/HOL "Microsoft Hands-on Labs")
-  + (Azure.com/Pluralsight "Azure on Pluralsight") 
-  + (Azure.com/Pluralsight "Azure Architecture Center")
+  + [Microsoft Learn](Microsoft.com/Learn)
+  + [Microsoft Docs](aka.ms/docs)
+  + [Microsoft Hands-on Labs](aka.ms/docs)
+  + [Azure on Pluralsight](Azure.com/Pluralsight)
+  + [Azure Architecture Center](aka.ms/Architecture)
 
 ## Azure Events" 
 + Get the latest insights and skills from technology leaders
@@ -27,9 +27,9 @@ Sources:
 + Sessions content aligned to learning path
 
 Sources
-+ (events.microsoft.com "Microsoft Azure Training Day Fundamentals")
-+ (events.microsoft.com "Microsoft Azure Training Day: Migrating applicatons to the cloud")
-+ (openhack.microsoft.com "OpenHack")
++ [Microsoft Azure Training Day Fundamentals](events.microsoft.com)
++ [Microsoft Azure Training Day: Migrating applicatons to the cloud](events.microsoft.com)
++ [OpenHack](openhack.microsoft.com )
 
 ## Classroom ## 
 + Instucture-led training delivered by Microsoft Certified Trainers
@@ -37,8 +37,8 @@ Sources
 + Balanced mix of presentations, hands-on labs and group discussion
 
 Sources
-+ (aka.ms/MOC "Microsoft Official Courses") 
-+ (aka.ms/MOC "Microsoft Learning Partners") 
++ [Microsoft Official Courses](aka.ms/MOC)
++ [Microsoft Learning Partners](aka.ms/LearningPartner) 
 
 ## Certifications ##
 + Microsoft certifications prove that a person has the skills to help organizations maximize the capabilities of the cloud to achieve desired business outcomes.
@@ -51,4 +51,4 @@ Sources
 
 To help learners prepare for certification exams, Microsoft partners with Measure Up to offer official practice tests. Visit aka.ms/MSPracticeTests to discover available Microsoft practice tests.
 
-(Sources: Please go to repository Cloud Native App Dev Trainings & Certifications)
+(Sources: Please go to repository [Cloud Native App Dev Trainings & Certifications](./CloudNativeAppDevCertificationandTrainings)
