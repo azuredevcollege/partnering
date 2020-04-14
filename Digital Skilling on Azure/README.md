@@ -1,5 +1,5 @@
 # Digital Skilling # 
-Microsoft’s offers a comprehensive collection of training options to empower technical professionals to learn in a style that fits best to be ready for the job and to prepare for certifications.
+Microsoft offers a comprehensive collection of training options to empower technical professionals to learn in a style that fits best to be ready for the job and to prepare for certifications.
 In the following you will get a quick and easy overview to our main learning resources. All resources are accessible for free.
 + *Digital Skilling* to build practical job skills with easily accessible, free, self-paced courses 
 + *Training events* that provide unique upskilling experience, combining traditional presentation-based conferences, with demonstrations, discussions and practical, applicable workshops and hands-on coding experiences
@@ -21,7 +21,7 @@ Sources:
   + [Azure on Pluralsight](Azure.com/Pluralsight)
   + [Azure Architecture Center](aka.ms/Architecture)
 
-## Azure Events" 
+## Azure Events ## 
 + Get the latest insights and skills from technology leaders
 + Experience the lates technologies an dimagine new ways to create solutions
 + Sessions content aligned to learning path
