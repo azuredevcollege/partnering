@@ -7,6 +7,7 @@ Obviously Microsoft has a ton of resources to keep you busy. So you might ask yo
 First of all, take a test on (aka.ms/MSPracticeTests "Measure Up") to assess your current knowledge and learn about your development areas.
 
 ## Courses ##
+
 Start with some online courses. Complete learning path are available on  Microsoft Learn oder Pluralsight. Tipp: Create your learning profile with your private email address and conect this to your porfessional/company's account. This way, you can take the certification with you from one to the other employer (of course we do not want to motivate anybody to change jobs). 
 
 Intelligent Cloud Bootcamps (in-person):
@@ -17,6 +18,7 @@ Intelligent Cloud Bootcamps (in-person):
 + Serverless Applikationen mit Cosmos DB
 
 MOOCs (online):
+
 + MOOC: Azure Fundamentals​
 + MOOC: Azure App Service​
 + MOOC: Building your Azure Skills Toolkit​
@@ -28,8 +30,11 @@ MOOCs (online):
 + MOOC: DevOps Practices and Principles
 
 ## Azure Certification ##
+
 When you feel ready, take your first real exam. 
+
 We recommend companies to achieve Cloud Platfrom competency which is per se Microsofts "Azure" certification and resembles the scope of experties in Microsofts could infrastructure and services. It requires that at least two individuals pass all the exams of any of the following roles:
+
 + Developer role: Microsoft Certified: Azure Developer Associate
 + Administrator role: Microsoft Certified: Azure Administrator Associate
 + Architect role: Microsoft Certified: Azure Solutions Architect Expert
@@ -38,6 +43,7 @@ We recommend companies to achieve Cloud Platfrom competency which is per se Micr
 (There are specific learning path for all competencies on Microsoft Learn.)
 
 Microsoft also offers certifications in *AppDev*, *App Integration* and *DevOps*. All exams require that at least 4 inidviduals pass one of the following examps per certification:
+
 + Application Development:App Builder Application Integration
 + Application Integration
   + Exam 70-487: Developing Microsoft Azure and Web Services
@@ -45,6 +51,7 @@ Microsoft also offers certifications in *AppDev*, *App Integration* and *DevOps*
 + DevOps: Azure DevOps-Assessments
 
 Important: The exams Application Development and Application Integration are very much focues on .NET. Please be aware and directly invest in cloud platform if you come from the open source world. 
+
 Please also consider [Application Development updated competency exams and certifications for 2020](./Updatedcompetencyexamsandcertificationsfor2020). 
 
 ## Advanced Specialization ## 
