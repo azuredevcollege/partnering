@@ -22,7 +22,7 @@ Sources:
 
   + [Microsoft Learn](Microsoft.com/Learn)
   + [Microsoft Docs](aka.ms/docs)
-  + [Microsoft Hands-on Labs](aka.ms/docs)
+  + <del>[Microsoft Hands-on Labs]</del>(Currently unavailable due to COVID-19)
   + [Azure on Pluralsight](Azure.com/Pluralsight)
   + [Azure Architecture Center](aka.ms/Architecture)
 
@@ -42,12 +42,14 @@ Sources
 
 + Instucture-led training delivered by Microsoft Certified Trainers
 + Content created by Microsoft, design to learn the skills and capabilities needed for the job, and to prepare for certification
-+ Balanced mix of presentations, hands-on labs and group discussion
++ Balanced mix of presentations, hands-on labs and group discussions
++ Free digitally delivered trainings through Virtual Instructor-Led Trainings
 
 Sources
 
 + [Microsoft Official Courses](aka.ms/MOC)
-+ [Microsoft Learning Partners](aka.ms/LearningPartner) 
++ [Microsoft Learning Partners](aka.ms/LearningPartner)
++ [Virtual Instructor-Led Trainings](https://partner.microsoft.com/en-us/training/virtual-instructor-led-training#/?type=CertPrep&prod=microsoft-azure) 
 
 ## Certifications ##
 
