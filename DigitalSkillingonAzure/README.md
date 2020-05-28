@@ -63,4 +63,4 @@ Sources
 
 To help learners prepare for certification exams, Microsoft partners with Measure Up to offer official practice tests. Visit aka.ms/MSPracticeTests to discover available Microsoft practice tests.
 
-(Sources: Please go to repository [Cloud Native App Dev Trainings & Certifications](./CloudNativeAppDevCertificationandTrainings)
+(Sources: Please go to repository [Cloud Native App Dev Trainings & Certifications](https://github.com/azuredevcollege/partnering/tree/master/CloudNativeAppDevCertificationsandTrainings)
